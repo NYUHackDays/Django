@@ -1,4 +1,4 @@
-# Setup
+# Django
 
 ## Pre-requisites
 * `Python 2.6` or higher - Higher version is better but 2.6 will do. You're on your own with Python 3.xx version.
